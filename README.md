@@ -1,6 +1,7 @@
 # Finance-APP-Layout
-Aplicativo de finanças, apenas layout. 
+Aplicativo de finanças simples, apenas layout. 
 
-*Feito em HTML, CSS e Javascript*
+*Feito com HTML, CSS e Javascript*
 
 ![Test app](https://snipboard.io/TX0wK9.jpg)
+![Test app](https://snipboard.io/3Polg2.jpg)
